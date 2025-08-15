@@ -1,8 +1,7 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
 export default function Home() {
   return (
-    <div> Ola turma! </div>
+    <div>
+      <h1>Ola turma!</h1>
+    </div>
   );
 }
